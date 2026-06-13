@@ -6,7 +6,7 @@
 
 ### 🏛️ Module 1: Cloud Concepts
 * ☁️ Cloud Computing
-  * 🌐 [Introduction to Microsoft Azure Fundamentals](1.Cloud%20concepts/1.Cloud%20computing/1.introductionToMicrosoftAzureFundamentals.md)
+  * 🌍 [Introduction to Microsoft Azure Fundamentals](1.Cloud%20concepts/1.Cloud%20computing/1.introductionToMicrosoftAzureFundamentals.md)
   * 🌐 [Introduction to Cloud Computing](1.Cloud%20concepts/1.Cloud%20computing/2.introductionToCloudComputing.md)
   * 💡 [What is Cloud Computing?](1.Cloud%20concepts/1.Cloud%20computing/3.whatIsCloudComputing.md)
   * ⚖️ [Shared Responsibility Model](1.Cloud%20concepts/1.Cloud%20computing/4.sharedResponsabilityModel.md)
