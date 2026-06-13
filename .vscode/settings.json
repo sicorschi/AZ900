@@ -3,6 +3,8 @@
         "Agentic",
         "deallocates",
         "Multicloud",
-        "multistep"
+        "Multisite",
+        "multistep",
+        "preshared"
     ]
 }
