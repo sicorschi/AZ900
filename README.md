@@ -9,7 +9,7 @@
   * 🌐 [Introduction to Microsoft Azure Fundamentals](1.Cloud%20concepts/1.Cloud%20computing/1.introductionToMicrosoftAzureFundamentals.md)
   * 🌐 [Introduction to Cloud Computing](1.Cloud%20concepts/1.Cloud%20computing/2.introductionToCloudComputing.md)
   * 💡 [What is Cloud Computing?](1.Cloud%20concepts/1.Cloud%20computing/3.whatIsCloudComputing.md)
-  * ⚖️ [Shared Responsibility Model](1.Cloud%20concepts/1.Cloud%20computing/3.whatIsCloudComputing.md)
+  * ⚖️ [Shared Responsibility Model](1.Cloud%20concepts/1.Cloud%20computing/4.sharedResponsabilityModel.md)
   * 🏢 [Cloud Models: Public, Private, and Hybrid](1.Cloud%20concepts/1.Cloud%20computing/5.defineCloudModels.md)
   * 💰 [Capital Expenditure (CapEx) vs. Operational Expenditure (OpEx)](1.Cloud%20concepts/1.Cloud%20computing/5.defineCloudModels.md)
   * 💰 [Describe consumption based model](1.Cloud%20concepts/1.Cloud%20computing/6.describeConsumptionBasedModel.md)
