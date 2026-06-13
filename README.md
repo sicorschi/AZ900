@@ -1,6 +1,6 @@
 # ☁️ Microsoft AZ-900 my study Hub
 > [!NOTE]
-> This central index maps out my notes about the AZ-900 certification exam. Click on any module or specific subtopic to jump directly to your study notes.
+> This central index maps out my notes about the AZ-900 certification exam. Click on any module or specific subtopic to jump directly to my study notes.
 
 ---
 
