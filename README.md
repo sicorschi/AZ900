@@ -50,21 +50,38 @@
   * 📂 [Storage Services](2.Azure%20architecture%20and%20services/4.Azure%20storage%20services/3.storageServices.md)
   * 📦 [Data Migration Options](2.Azure%20architecture%20and%20services/4.Azure%20storage%20services/4.dataMigrationOptions.md)
   * 🔄 [Files Movement Options](2.Azure%20architecture%20and%20services/4.Azure%20storage%20services/5.fileMovementOptions.md)
+* 👤 Azure Identity Access and Security
+  * 🆔 [Azure Directory Service](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/1.directoryServices.md)
+  * 🔒 [Azure authentication methods](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/2.authenticationMethods.md)
+  * 📂 [Azure external Identities](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/3.externalIdentities.md)
+  * 🛂 [Azure Conditional Access](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/4.conditionalAccess.md)
+  * 🔑 [Azure role-based access control](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/5.roleBasedAccessControl.md)
+  * 🔐 [Zero Trust model](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/6.zeroTrustModel.md)
+  * 🛡️ [Defense in-depth](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/7.defenseInDepth.md)
+  * 🔐 [Encryption and key management in Azure](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/8.encryptionAndKeyManagementInAzure.md)
+  * 🔐 [Microsoft Defender for Cloud](2.Azure%20architecture%20and%20services/5.Azure%20identity%20access%20and%20security/9.microsoftDefenderForCloud.md)
 
 ---
 
 ### 🛡️ Module 3: Azure Management and Governance
-* 🔒 [Authentication and Authorization](modules/03-governance-management.md)
-  * 🆔 [Microsoft Entra ID (formerly Azure Active Directory)](modules/03-governance-management.md#entra-id)
-  * 🛂 [Conditional Access and Multi-Factor Authentication (MFA)](modules/03-governance-management.md#security-features)
-  * 🔑 [Role-Based Access Control (RBAC)](modules/03-governance-management.md#rbac)
-* 📋 [Azure Governance and Compliance Methodologies](modules/03-governance-compliance.md)
-  * 🛡️ [Azure Policy and Azure Blueprints](modules/03-governance-compliance.md#policy-and-blueprints)
-  * 🔐 [Microsoft Purview and Resource Locks](modules/03-governance-compliance.md#purview-and-locks)
-  * 🗺️ [Service Trust Portal](modules/03-governance-compliance.md#service-trust-portal)
-* 📈 [Management and Behavioral Tools](modules/03-management-tools.md)
-  * 💵 [Azure Cost Management and Pricing Calculator](modules/03-management-tools.md#cost-management)
-  * 🧰 [Azure Portal, Azure CLI, and PowerShell](modules/03-management-tools.md#tools)
-  * 🚨 [Azure Advisor, Azure Monitor, and Service Health](modules/03-management-tools.md#monitoring-tools)
-  
+* 💵 Cost Management in Azure
+  * 💰 [Factors that can affect costs in Azure)](3.Azure%20Management%20and%20Governance/1.Cost%20Management%20in%20Azure/1.factorsCanAffectCosts.md)
+  * 🧮 [Pricing calculator](3.Azure%20Management%20and%20Governance/1.Cost%20Management%20in%20Azure/2.pricingCalculator.md)
+  * 📊 [Microsoft Cost Management tool](3.Azure%20Management%20and%20Governance/1.Cost%20Management%20in%20Azure/3.microsoftCostManagementTool.md)
+  * 🏷️  [Purpose of tags](3.Azure%20Management%20and%20Governance/1.Cost%20Management%20in%20Azure/4.purposeOfTags.md)
+  * 📈  [Cost Optimization options in Azure](3.Azure%20Management%20and%20Governance/1.Cost%20Management%20in%20Azure/5.costOptimizationOptions.md)
+* 📋 Features and Tools in Azure for Governance and Compliance
+  * 🛡️ [Purpose of Microsoft Purview](3.Azure%20Management%20and%20Governance/2.Features%20and%20Tools%20in%20Azure%20for%20Governance%20and%20Compliance/1.purposeMicrosoftPurview.md)
+  * 🔐 [Purpose of Azure Policy](3.Azure%20Management%20and%20Governance/2.Features%20and%20Tools%20in%20Azure%20for%20Governance%20and%20Compliance/2.purposeAzurePolicy.md)
+  * 🗺️ [Purpose of Resource Locks](3.Azure%20Management%20and%20Governance/2.Features%20and%20Tools%20in%20Azure%20for%20Governance%20and%20Compliance/3.purposeResourceLocks.md)
+  * 🗺️ [Purpose of the Service Trust portal](3.Azure%20Management%20and%20Governance/2.Features%20and%20Tools%20in%20Azure%20for%20Governance%20and%20Compliance/4.purposeServiceTrustPortal.md)
+* 📊 Features and Tools for managing and deploying Azure resources
+  * 🛠️ [Tools for interacting with Azure](3.Azure%20Management%20and%20Governance/3.Features%20and%20Tools%20for%20Managing%20and%20Deploying%20Azure%20resources/1.toolsInteractingWithAzure.md)
+  * ⚙️ [Purpose of Azure Arc](3.Azure%20Management%20and%20Governance/3.Features%20and%20Tools%20for%20Managing%20and%20Deploying%20Azure%20resources/2.purposeAzureArc.md)
+  * 🎯 [Azure Resource Manager and Azure ARM Templates](3.Azure%20Management%20and%20Governance/3.Features%20and%20Tools%20for%20Managing%20and%20Deploying%20Azure%20resources/3.azureResourceManagerAzureARMTemplates.md)
+* 🔍 Monitoring tools in Azure
+  * 📝 [Purpose of Azure Advisor](3.Azure%20Management%20and%20Governance/4.Monitoring%20Tools%20in%20Azure/1.purposeAzureAdvisor.md)
+  * 🩺 [Azure Service Health](3.Azure%20Management%20and%20Governance/4.Monitoring%20Tools%20in%20Azure/2.azureServiceHealth.md)
+  * 🖥️  [Azure Monitor](3.Azure%20Management%20and%20Governance/4.Monitoring%20Tools%20in%20Azure/3.azureMonitor.md)
 
+<p align="center">✦ ✦ ✦</p>
